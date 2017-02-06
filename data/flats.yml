@@ -1,0 +1,24 @@
+catherine:
+  owner_name: Catherine oxley
+  picture: yourshire.jpg
+  owner_picture: catherine.jpg
+  name: Catherine's home
+  summary: Charming room in Montmartre
+  city: London, UK
+  wifi: true
+fahad:
+  owner_name: Fahad Al-kubaisi
+  picture: baghdad.jpg
+  owner_picture: fahad.jpg
+  name: Fahad's home
+  summary: Nice flat in Iraq
+  city: Baghdad, Iraq
+  wifi: true
+kit:
+  owner_name: Kit Tjia
+  picture: hongkong.jpg
+  owner_picture: keth.jpg
+  name: kit's home
+  summary: Nice flat in HongKong
+  city: Hongkong, China
+  wifi: true
